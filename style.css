@@ -3,7 +3,7 @@ body{
     flex-wrap:wrap;
     justify-content:; */
     background-color: black;
-    background-image: url("/school.jpg");
+    background-image: url("https://raw.githubusercontent.com/jishnu-baruah/schoolSite/master/school.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
